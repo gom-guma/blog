@@ -8,9 +8,9 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Gomguma",
+	title: "gomguma.dev",
 	subtitle: "blog",
-	lang: "ko", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 280, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: true, // Hide the theme color picker for visitors
@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-		  src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
+		  src: '/favicon/favicon.png',    // Path of the favicon, relative to the /public directory
 		  theme: 'dark',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/yeinn", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/gom-guma", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
