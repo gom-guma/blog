@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: false,
-		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/gomguma-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar-gomguma.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/gomguma_avatar_1.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "곰구마",
 	bio: "🐻과 🍠를 좋아하는 개발자",
 	links: [

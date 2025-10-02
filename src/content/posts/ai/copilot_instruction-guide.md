@@ -7,10 +7,9 @@ category: AI
 tags: [Copilot, AI, 프로그래밍 생산성, LLM]
 ---
 
-# GitHub Copilot ‘잘’ 사용하는 법 (1)  
-## `.github/copilot-instruction.md`, `prompt.md` 를 활용한 문서 기반 설정
+# GitHub Copilot ‘잘’ 사용하는 법 (1)
 
----
+`.github/copilot-instruction.md`, `prompt.md` 를 활용한 문서 기반 설정
 
 ## 1. Copilot이 항상 유용한 건 아니다
 
@@ -64,6 +63,9 @@ Copilot은 `.github/copilot/` 디렉토리 내에 존재하는 특정 파일들�
 ---
 
 ## 4. copilot-instruction.md 작성 예시
+
+> [!TIP]
+> github-copilot 에서 제안하는 [5가지 팁](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/)을 참고하세요.
 
 Instruction 파일은 명확하고 단정적인 문체로 작성하는 것이 좋습니다. 주관적 판단이나 애매한 표현보다는, 규칙 또는 정책에 가까운 서술이 더 효과적으로 작동합니다.
 
