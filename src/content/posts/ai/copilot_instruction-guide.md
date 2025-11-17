@@ -5,6 +5,8 @@ description: 커스텀 지침 설정을 통해 Copilot 품질을 향상시키는
 image: ./copilot_instruction-guide.png
 category: AI
 tags: [Copilot, AI, 프로그래밍 생산성, LLM]
+draft: false 
+lang: 'ko'
 ---
 
 # GitHub Copilot ‘잘’ 사용하는 법 (1)
