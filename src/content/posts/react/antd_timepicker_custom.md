@@ -4,7 +4,7 @@ title: Ant Design TimePicker 이벤트 컨트롤하기
 published: 2025-11-17
 description: 'TimePicker 컴포넌트 커스텀으로 타이밍 제어 본질 파헤치기'
 image: './antd_timepicker_custom.png'
-tags: [React, UX, 오픈소스]
+tags: [React, UX, 오픈소스, 웹]
 category: 'React'
 draft: false
 lang: 'ko'
